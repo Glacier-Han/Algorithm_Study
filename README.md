@@ -18,6 +18,20 @@
   </div>
 </details>
 
+<details markdown="2">
+  <summary> <b>WEEK 2</b> : DP (Dynamic Programming) </summary>
+  <div>
+    <ol>
+      <li> <a href="https://www.acmicpc.net/problem/11055"> 가장 큰 증가하는 부분 수열 </a> </li>
+      <li> <a href="https://www.acmicpc.net/problem/21317"> 징검다리 건너기 </a> </li>
+      <li> <a href="https://www.acmicpc.net/problem/1106"> 호텔 </a>  </li>
+      <li> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42895"> N으로 표현 </a> </li>
+      <li> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/43105"> 정수 삼각형 </a> </li>
+    </ol>
+  </div>
+</details>
+
+<br>
 <br>
 
 ### 스터디 규칙
